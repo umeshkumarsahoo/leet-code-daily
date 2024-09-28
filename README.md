@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0041-first-missing-positive) |
+| [0287-find-the-duplicate-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0287-find-the-duplicate-number) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Stack
 |  |
@@ -28,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0041-first-missing-positive) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
