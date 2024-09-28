@@ -9,6 +9,11 @@ class Solution:
             if nums[i]==nums[i+1]:
                 return nums[i]
         return -1
+with open("user.out", "w") as f:
+    inputs = map(loads, stdin)
+    for nums in inputs:
+        print(Solution().findDuplicate(nums),file=f)
+exit(0)
         
 
 
