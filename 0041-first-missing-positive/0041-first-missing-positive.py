@@ -10,3 +10,8 @@ class Solution:
                 return missing_no
         return missing_no
         
+with open("user.out", "w") as f:
+    inputs = map(loads, stdin)
+    for nums in inputs:
+        print(Solution().firstMissingPositive(nums),file=f)
+exit(0)
