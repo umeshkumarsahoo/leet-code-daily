@@ -1,11 +1,11 @@
-from typing import List  
+class Solution:
+    def arrayRankTransform(self, arr: List[int]) -> List[int]:
 
-class Solution:  
-    def arrayRankTransform(self, arr: List[int]) -> List[int]:  
-        sorted_unique = sorted(set(arr))  
-        rank = {value: idx + 1 for idx, value in enumerate(sorted_unique)} 
-        return [rank[value] for value in arr]
-
+        b=sorted(set(arr))
+        c={ele:rank+1 for rank,ele in enumerate(b)}
+        ranked_arr=[c[ele] for ele in arr]
+        return ranked_arr
+        
 
         
         
