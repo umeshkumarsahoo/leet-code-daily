@@ -79,13 +79,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0784-insert-into-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
