@@ -8,5 +8,10 @@ class Solution:
                 return -1
             t_chem+=(skill[i]*skill[-i-1])
         return t_chem
+with open("user.out", "w") as f:
+    inputs = map(loads, stdin)
+    for nums in inputs:
+        print(Solution().dividePlayers(nums),file=f)
+exit(0)
 
         
