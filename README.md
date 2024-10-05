@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0287-find-the-duplicate-number) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0041-first-missing-positive) |
 | [0432-all-oone-data-structure](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0567-permutation-in-string) |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0567-permutation-in-string) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
