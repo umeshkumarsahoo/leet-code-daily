@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0567-permutation-in-string) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1923-sentence-similarity-iii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1923-sentence-similarity-iii) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0102-binary-tree-level-order-traversal) |
+## Math
+|  |
+| ------- |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1920-determine-color-of-a-chessboard-square) |
 <!---LeetCode Topics End-->
