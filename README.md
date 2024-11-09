@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0075-sort-colors) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0055-jump-game) |
 | [0670-maximum-swap](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
