@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0199-binary-tree-right-side-view) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0199-binary-tree-right-side-view) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0199-binary-tree-right-side-view) |
