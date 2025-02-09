@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
 | ------- |
