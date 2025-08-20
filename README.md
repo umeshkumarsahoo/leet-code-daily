@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0041-first-missing-positive) |
+| [0268-missing-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0268-missing-number) |
 | [0432-all-oone-data-structure](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0567-permutation-in-string) |
@@ -77,10 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0268-missing-number) |
 | [1256-rank-transform-of-an-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
@@ -184,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0670-maximum-swap) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## Greedy
