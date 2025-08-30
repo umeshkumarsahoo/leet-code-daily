@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0268-missing-number) |
 | [0432-all-oone-data-structure](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0268-missing-number) |
 | [1256-rank-transform-of-an-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -215,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0040-combination-sum-ii) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
