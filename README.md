@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0073-set-matrix-zeroes) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0073-set-matrix-zeroes) |
 ## Breadth-First Search
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0670-maximum-swap) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1920-determine-color-of-a-chessboard-square) |
