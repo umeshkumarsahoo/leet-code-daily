@@ -3,14 +3,10 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        count={}
-        for i in nums:
-            count[i]=count.get(i,0)+1
-        idx=0
-        for i in range(3):
-            freq=count.get(i,0)
-            nums[idx:idx+freq]=[i]*freq
-            idx+=freq
-                
-            
-                
+        n=len(nums)
+        for i in range(n):
+            for j in range(0,n-i-1):
+                if nums[j]>nums[j+1]:
+                    nums[j],nums[j+1]=nums[j+1],nums[j]
+        
+        
