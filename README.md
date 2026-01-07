@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0268-missing-number) |
 | [0432-all-oone-data-structure](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0977-squares-of-a-sorted-array) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0670-maximum-swap) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1920-determine-color-of-a-chessboard-square) |
