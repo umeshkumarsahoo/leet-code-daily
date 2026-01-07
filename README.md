@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1694-make-sum-divisible-by-p) |
 ## String
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
