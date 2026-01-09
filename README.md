@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0092-reverse-linked-list-ii) |
 | [0432-all-oone-data-structure](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0432-all-oone-data-structure) |
 ## Array
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0015-3sum) |
+| [0061-rotate-list](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0287-find-the-duplicate-number) |
