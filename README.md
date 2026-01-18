@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0844-backspace-string-compare) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1923-sentence-similarity-iii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0316-remove-duplicate-letters) |
 | [0567-permutation-in-string](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1920-determine-color-of-a-chessboard-square) |
