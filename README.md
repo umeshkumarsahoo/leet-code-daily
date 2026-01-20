@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0844-backspace-string-compare) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0268-missing-number) |
 | [0432-all-oone-data-structure](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0567-permutation-in-string) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1256-rank-transform-of-an-array) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0739-daily-temperatures) |
 ## Ordered Set
