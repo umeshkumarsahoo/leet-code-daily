@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0071-simplify-path) |
 | [0316-remove-duplicate-letters](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0071-simplify-path) |
 | [0316-remove-duplicate-letters](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0316-remove-duplicate-letters) |
 | [0567-permutation-in-string](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0680-valid-palindrome-ii) |
