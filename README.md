@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0061-rotate-list) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0071-simplify-path) |
 | [0316-remove-duplicate-letters](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0316-remove-duplicate-letters) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0055-jump-game) |
