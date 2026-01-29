@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0092-reverse-linked-list-ii) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0268-missing-number) |
@@ -321,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2363-merge-similar-items](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2363-merge-similar-items) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
