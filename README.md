@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0287-find-the-duplicate-number) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0200-number-of-islands) |
 | [0617-merge-two-binary-trees](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Math
@@ -327,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0002-add-two-numbers) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
