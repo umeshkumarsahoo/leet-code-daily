@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0136-single-number) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0199-binary-tree-right-side-view) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0079-word-search) |
 | [0316-remove-duplicate-letters](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0316-remove-duplicate-letters) |
 | [0567-permutation-in-string](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0680-valid-palindrome-ii) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0079-word-search) |
 ## Counting
 |  |
 | ------- |
