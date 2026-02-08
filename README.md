@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2390-removing-stars-from-a-string) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1041-robot-bounded-in-circle](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1041-robot-bounded-in-circle) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1923-sentence-similarity-iii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Backtracking
 |  |
 | ------- |
