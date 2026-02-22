@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0877-stone-game](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0877-stone-game) |
 | [0907-koko-eating-bananas](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0907-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0670-maximum-swap) |
+| [0877-stone-game](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0877-stone-game) |
 | [1041-robot-bounded-in-circle](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1041-robot-bounded-in-circle) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2396-strictly-palindromic-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2396-strictly-palindromic-number) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0799-champagne-tower](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0877-stone-game) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Backtracking
 |  |
@@ -399,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2396-strictly-palindromic-number) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
