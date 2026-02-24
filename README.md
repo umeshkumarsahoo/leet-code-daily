@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
