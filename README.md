@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1256-rank-transform-of-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0287-find-the-duplicate-number) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Design
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1256-rank-transform-of-an-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2363-merge-similar-items](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2363-merge-similar-items) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0169-majority-element) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Monotonic Stack
 |  |
 | ------- |
