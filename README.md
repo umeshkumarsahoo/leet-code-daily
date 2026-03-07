@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0210-course-schedule-ii) |
 | [0617-merge-two-binary-trees](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Math
 |  |
 | ------- |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0200-number-of-islands) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Enumeration
 |  |
 | ------- |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0210-course-schedule-ii) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Topological Sort
 |  |
 | ------- |
