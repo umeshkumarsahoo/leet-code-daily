@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0496-next-greater-element-i) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0907-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1256-rank-transform-of-an-array) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0023-merge-k-sorted-lists) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Merge Sort
 |  |
 | ------- |
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0200-number-of-islands) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
