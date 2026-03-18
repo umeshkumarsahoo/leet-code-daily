@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0239-sliding-window-maximum) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Simulation
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Merge Sort
 |  |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0567-permutation-in-string) |
 | [3634-minimum-removals-to-balance-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3634-minimum-removals-to-balance-array) |
@@ -464,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0620-not-boring-movies](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0620-not-boring-movies) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
