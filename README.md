@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0826-most-profit-assigning-work](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0826-most-profit-assigning-work) |
 | [0877-stone-game](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0877-stone-game) |
 | [0907-koko-eating-bananas](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0907-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0977-squares-of-a-sorted-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0680-valid-palindrome-ii) |
+| [0826-most-profit-assigning-work](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0826-most-profit-assigning-work) |
 | [0844-backspace-string-compare](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1923-sentence-similarity-iii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1923-sentence-similarity-iii) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0826-most-profit-assigning-work](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0826-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0907-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0826-most-profit-assigning-work](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0826-most-profit-assigning-work) |
 | [0977-squares-of-a-sorted-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1256-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0670-maximum-swap](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0680-valid-palindrome-ii) |
+| [0826-most-profit-assigning-work](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0826-most-profit-assigning-work) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
