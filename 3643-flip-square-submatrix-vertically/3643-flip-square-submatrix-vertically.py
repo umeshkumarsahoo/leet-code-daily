@@ -5,9 +5,7 @@ class Solution:
         max_col=y+k
         while i<j:
             for k in range(y,max_col):
-                temp=grid[i][k]
-                grid[i][k]=grid[j][k]
-                grid[j][k]=temp
+                grid[i][k],grid[j][k]=grid[j][k],grid[i][k]
             i+=1
             j-=1
         return grid
