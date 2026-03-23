@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1694-make-sum-divisible-by-p](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1694-make-sum-divisible-by-p) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3643-flip-square-submatrix-vertically) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0509-fibonacci-number) |
 | [0799-champagne-tower](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0877-stone-game) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Backtracking
 |  |
