@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1256-rank-transform-of-an-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1694-make-sum-divisible-by-p) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2363-merge-similar-items](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2363-merge-similar-items) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Two Pointers
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Design
 |  |
 | ------- |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0525-contiguous-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1694-make-sum-divisible-by-p) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## String
 |  |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1923-sentence-similarity-iii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1923-sentence-similarity-iii) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2390-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2800-minimum-string-length-after-removing-substrings) |
