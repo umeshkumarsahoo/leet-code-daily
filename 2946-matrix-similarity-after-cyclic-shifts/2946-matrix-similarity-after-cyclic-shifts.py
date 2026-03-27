@@ -20,25 +20,7 @@ class Solution:
                     mat[i] = shift_row(mat[i], k, "right")
 
             return mat == original_mat
-            def left(mat,k):
-                l=len(mat)
-                mat1=[0]*l
-                for i in range(l):
-                    t=(i+(l-k))%l
-                    mat1[t]=mat[i]
-                return mat1
+ 
 
-            def right(mat,k):
-                l=len(mat)
-                mat2=[0]*l
-                for i in range(l):
-                    t=(i+k)%l
-                    mat2[t]=mat[i]
-                return mat2
-            for i in range(len(mat)):
-                if i%2==0:
-                    mat[i]=left(mat[i],k)
-                else:
-                    mat[i]=right(mat[i],k)
-            return mat1==mat
+
             
