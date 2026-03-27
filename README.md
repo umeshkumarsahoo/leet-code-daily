@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2363-merge-similar-items](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2363-merge-similar-items) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3379-transformed-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3379-transformed-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2390-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3379-transformed-array) |
 ## Hash Table
 |  |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3643-flip-square-submatrix-vertically) |
 ## Breadth-First Search
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2396-strictly-palindromic-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2396-strictly-palindromic-number) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Greedy
 |  |
 | ------- |
