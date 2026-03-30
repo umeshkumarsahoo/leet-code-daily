@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2363-merge-similar-items](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2363-merge-similar-items) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2363-merge-similar-items](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2363-merge-similar-items) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3634-minimum-removals-to-balance-array) |
 ## Divide and Conquer
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2390-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Sliding Window
 |  |
 | ------- |
