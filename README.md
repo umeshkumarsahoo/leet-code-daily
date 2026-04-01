@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0907-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1046-last-stone-weight](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1046-last-stone-weight) |
 | [1256-rank-transform-of-an-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1256-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1046-last-stone-weight](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
