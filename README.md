@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3379-transformed-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3379-transformed-array) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3634-minimum-removals-to-balance-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3643-flip-square-submatrix-vertically) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3643-flip-square-submatrix-vertically](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3643-flip-square-submatrix-vertically) |
 ## Breadth-First Search
 |  |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0877-stone-game) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Backtracking
 |  |
 | ------- |
