@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0826-most-profit-assigning-work](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0826-most-profit-assigning-work) |
+| [0874-walking-robot-simulation](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0877-stone-game) |
 | [0907-koko-eating-bananas](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0907-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0977-squares-of-a-sorted-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0844-backspace-string-compare) |
+| [0874-walking-robot-simulation](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0874-walking-robot-simulation) |
 | [1041-robot-bounded-in-circle](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1041-robot-bounded-in-circle) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0567-permutation-in-string) |
+| [0874-walking-robot-simulation](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0874-walking-robot-simulation) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1256-rank-transform-of-an-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
