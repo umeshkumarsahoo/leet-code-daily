@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3643-flip-square-submatrix-vertically) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Stack
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Two Pointers
 |  |
 | ------- |
