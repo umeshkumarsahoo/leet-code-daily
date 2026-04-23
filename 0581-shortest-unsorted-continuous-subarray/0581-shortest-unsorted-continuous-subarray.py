@@ -1,8 +1,9 @@
 class Solution:
     def findUnsortedSubarray(self, nums: List[int]) -> int:
-        nums1=sorted(nums)
         stack=[]
-        for num in nums1: stack.append(num)
+        nums1=sorted(nums)
+        for i in nums1:
+            stack.append(i)
         ans=[]
         for i in range(len(nums)-1,-1,-1):
             if nums[i]!=stack[-1]:
@@ -11,5 +12,4 @@ class Solution:
         print(ans)
         return ans[0]-ans[-1]+1 if ans else 0
 
-__import__("atexit").register(lambda: open("display_runtime.txt", "w").write("0"))
         
