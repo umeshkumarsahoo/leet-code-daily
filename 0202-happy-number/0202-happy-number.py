@@ -6,7 +6,7 @@ class Solution:
             sum_squares = 0
             while n:
                 r = n % 10
-                sum_squares += r * r
+                sum_squares += r**2
                 n //= 10
             n = sum_squares
         return n == 1
