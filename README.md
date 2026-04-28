@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0092-reverse-linked-list-ii) |
 | [0432-all-oone-data-structure](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0432-all-oone-data-structure) |
+| [0876-middle-of-the-linked-list](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Array
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0680-valid-palindrome-ii) |
 | [0826-most-profit-assigning-work](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0826-most-profit-assigning-work) |
 | [0844-backspace-string-compare](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1923-sentence-similarity-iii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
