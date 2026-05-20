@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0047-permutations-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0234-palindrome-linked-list) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0143-reorder-list) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0055-jump-game) |
@@ -503,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/0503-next-greater-element-ii) |
