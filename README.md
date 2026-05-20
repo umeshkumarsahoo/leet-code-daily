@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2540-minimum-common-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2363-merge-similar-items) |
 | [2540-minimum-common-value](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2540-minimum-common-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Design
 |  |
 | ------- |
