@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3379-transformed-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3634-minimum-removals-to-balance-array](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3634-minimum-removals-to-balance-array) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2396-strictly-palindromic-number](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2396-strictly-palindromic-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/umeshkumarsahoo/leet-code-daily/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Greedy
 |  |
 | ------- |
