@@ -1,0 +1,14 @@
+class Solution:
+    def sortedArrayToBST(self, nums: List[int]) -> Optional[TreeNode]:
+        start=0
+        end=len(nums)-1
+        def createTree(nums,start,end):
+            if (start>end):return None
+            mid=start+(end-start)//2
+            root=TreeNode(nums[mid])
+            root.left=createTree(nums,start,mid-1)
+            root.right=createTree(nums,mid+1,end)
+            return root
+        root=createTree(nums,start,end)
+        return root
+        
